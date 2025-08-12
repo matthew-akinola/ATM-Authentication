@@ -10,7 +10,7 @@
 #bank operations
 
 #Initializing the system
-import random
+import random   
 
 database = {} #dictionary
 
