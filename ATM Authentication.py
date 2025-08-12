@@ -17,7 +17,7 @@ database = {} #dictionary
 def init():
 
    
-    print("Welcome to bankPHP")
+    print("Welcome to bankPHP")  
  
     haveAccount = int(input("Do you have account with us: 1 (yes) 2 (no) \n"))
 
